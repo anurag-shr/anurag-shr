@@ -25,6 +25,6 @@ Computational biology Master’s student working on multi-omics integration and 
 **Also comfortable with**: ETL pipelines, CI/CD pipelines, Basic ML workflows.
 
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - ⚡ Fun fact: Internet users blink less than usual.
 
