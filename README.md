@@ -5,8 +5,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anuragsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anurag-shr)](www.linkedin.com/in/anurag-shr)
 [![Gmail Badge](https://img.shields.io/badge/-angshr667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Anurag Sharma 😃. I am from Manipal, Karnataka and currently doing my M.Sc. in Bioinformatics from MSLS, Manipal University 🏫. I love to explore and learn about new things.
+I am Anurag Sharma 😃. I am from Imphal, Manipur and currently doing my M.Sc. in Bioinformatics from MSLS, Manipal University 🏫. I love to explore and learn about new things.
 
+## About Me
+Computational biology Master’s student working on multi-omics integration and transcriptomics. Interested in systems-level modeling of complex diseases and applying machine learning to biological data. Preparing for a PhD in computational genomics.
+
+## What You’ll Find Here
+- RNA-seq analysis pipelines
+- Reproducible R workflows
+- Multi-omics integration experiments
+- Visualization-focused exploratory analyses
+- Method validation and interpretation notebooks
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
