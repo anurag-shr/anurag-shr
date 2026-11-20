@@ -8,7 +8,7 @@
 I am Anurag Sharma 😃. Currently doing my M.Sc. in Bioinformatics at MSLS, Manipal University 🏫. I love exploring and learning about new things.
 
 ## About Me
-Computational biology Master’s student working on multi-omics integration, single-cell, and spatial transcriptomics. Interested in systems-level modeling of complex diseases and applying machine learning to biological data. My current focus is on understanding the cellular and molecular mechanisms lying behind stem-cell and immune plasticity in cancer. I am also actively looking for PhD opportunities in Computational Biology.
+Computational biology Master’s student working on multi-omics integration, single-cell, and spatial transcriptomics. Interested in systems-level modeling of complex diseases and applying machine learning to biological data. My current work focuses in understanding the cellular and molecular mechanisms lying behind stem-cell and immune plasticity in cancer. I am also actively looking for PhD opportunities in Computational Biology.
 
 ## What You’ll Find Here
 - RNA-seq analysis pipelines
