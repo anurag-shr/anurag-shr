@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anuragsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anurag-shr)](www.linkedin.com/in/anurag-shr)
 [![Gmail Badge](https://img.shields.io/badge/-angshr667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-anurag.mslsmpl2025@learner.manipal.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 I am Anurag Sharma 😃. Currently doing my M.Sc. in Bioinformatics at MSLS, Manipal University 🏫. I love exploring and learning about new things.
 
