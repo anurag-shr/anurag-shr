@@ -1,14 +1,14 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-anuragsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anurag-shr)](www.linkedin.com/in/anurag-shr)
 [![Gmail Badge](https://img.shields.io/badge/-angshr667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Anurag Sharma 😃. I am from Imphal, Manipur and currently doing my M.Sc. in Bioinformatics from MSLS, Manipal University 🏫. I love to explore and learn about new things.
+I am Anurag Sharma 😃. Currently doing my M.Sc. in Bioinformatics at MSLS, Manipal University 🏫. I love exploring and learning about new things.
 
 ## About Me
-Computational biology Master’s student working on multi-omics integration and transcriptomics. Interested in systems-level modeling of complex diseases and applying machine learning to biological data. Preparing for a PhD in computational genomics.
+Computational biology Master’s student working on multi-omics integration, single-cell, and spatial transcriptomics. Interested in systems-level modeling of complex diseases and applying machine learning to biological data. My current focus is on understanding the cellular and molecular mechanisms lying behind stem-cell and immune plasticity in cancer. I am also actively looking for PhD opportunities in Computational Biology.
 
 ## What You’ll Find Here
 - RNA-seq analysis pipelines
